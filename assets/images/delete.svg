@@ -1,0 +1,5 @@
+<svg width="128" height="74" viewBox="0 0 128 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M125.25 37V71.25L43.693 71.25L4.19748 37L43.693 2.75L125.25 2.75V37Z" stroke="white" stroke-width="5.5"/>
+<line y1="-2.75" x2="59.9534" y2="-2.75" transform="matrix(0.707107 0.707107 -0.572362 0.820001 55 18)" stroke="white" stroke-width="5.5"/>
+<line y1="-2.75" x2="59.9534" y2="-2.75" transform="matrix(0.707107 -0.707107 -0.572362 -0.820001 55 56.3934)" stroke="white" stroke-width="5.5"/>
+</svg>
